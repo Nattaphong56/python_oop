@@ -1,5 +1,4 @@
-print("Hello")
-print("my name is : Nattaphong")print("Hello Python")
+print("Hello Python")
 print("นายณัฐพงศ์ ศรีเทพย์")
 print("นาย")
 print("19 ปี")
